@@ -34,16 +34,15 @@ There are 13 features in the dataset, and each feature indicates some details of
 
 
 # Visualization report
-The report comprises two dashboards.
-#### First Dashboard:
+The report comprises two dashboards. You can interact with the dashboard [here](https://public.tableau.com/app/profile/christos.passas/viz/GooglePlaystoreAnalysis_dashboard/GooglePlaystoreAnalysis_Dashboard1)
+##### First Dashboard:
 - Determine how many apps are available in each category on the Google Play Store.
 - Find out the average user rating for apps within each category.
-- 
+- Determine the 20 most popular genres based on the number of apps or installs.
 - Highlight the app categories with the highest total number of installs
 ##### Second Dashboard:
 - Identify the 20 apps with the most reviews.
 - Compare the number of free apps to paid apps.
-- Determine the most popular genres based on the number of apps or installs.
 - Analyze the distribution of apps according to their content rating (e.g., Everyone, Teen, Mature).
 - List the 50 apps with the highest number of installs.
 
