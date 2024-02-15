@@ -32,5 +32,21 @@ There are 13 features in the dataset, and each feature indicates some details of
 7. Analyze the distribution of apps according to their content rating (e.g., Everyone, Teen, Mature).
 8. List the 50 apps with the highest number of installs.
 
+
+# Visualization report
+The report comprises two dashboards.
+#### First Dashboard:
+- Determine how many apps are available in each category on the Google Play Store.
+- Find out the average user rating for apps within each category.
+- 
+- Highlight the app categories with the highest total number of installs
+##### Second Dashboard:
+- Identify the 20 apps with the most reviews.
+- Compare the number of free apps to paid apps.
+- Determine the most popular genres based on the number of apps or installs.
+- Analyze the distribution of apps according to their content rating (e.g., Everyone, Teen, Mature).
+- List the 50 apps with the highest number of installs.
+
+
 # Source/Credit 
 https://www.kaggle.com/datasets/bhavikjikadara/google-play-store-applications
