@@ -1,7 +1,9 @@
 # Google-Play-Store-Applications-Analysis
 Web scraped data of nearly 11K Play Store apps for analyzing the Android market.
 
-![](google_playstore_image.jpg.jpg)
+![](playstore.jpg)
+
+
 
 # Data Content: Columns and rows
 
