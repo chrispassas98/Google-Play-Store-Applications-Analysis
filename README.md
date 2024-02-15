@@ -1,6 +1,8 @@
 # Google-Play-Store-Applications-Analysis
 Web scraped data of nearly 11K Play Store apps for analyzing the Android market.
 
+![](google_playstore_image.jpg.jpg)
+
 # Data Content: Columns and rows
 
 There are 13 features in the dataset, and each feature indicates some details of Google application name, category, rating, reviews, size, installs, type, price, content rating genres, last updated, current version and Android version.
