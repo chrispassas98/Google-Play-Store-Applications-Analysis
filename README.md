@@ -56,10 +56,10 @@ The report comprises two dashboards. You can interact with the dashboard [here](
   - Categories with higher average ratings may indicate higher user satisfaction.
   - Apps with a high number of reviews are often those that have achieved significant user engagement.
   - Understanding which categories have the most installs can help developers identify where users are most active, and potentially, where the money flows.
-  - This analysis sheds light on the prevailing monetization strategies within the Google Play Store and can help developers decide whether to offer their app for free or as a paid download.
-  - Also can indicate which age groups are most catered to in the app market, helping developers target their apps more effectively to the right audience.
+  - By comparing free and paid apps within the Google Play Store, we can gain valuable insights into prevailing monetization strategies, which can guide developers in deciding whether to offer their applications at no cost or as paid downloads.
+  - Analyzing the distribution of apps according to their content rating, we can understand which age groups are most catered to in the app market, helping developers target their apps more effectively to the right audience.
   - Identifying popular genres can help developers understand user preferences and market trends, guiding them in genre selection for their next app project.
-  - Lastly, understanding which apps have the most installs can provide a benchmark for success and offer insights into features, app types, or marketing strategies that resonate with a large user base.
+  - Lastly, we can understand which apps have the most installs can provide a benchmark for success and offer insights into features, app types, or marketing strategies that resonate with a large user base.
 
 
 # Source/Credit 
