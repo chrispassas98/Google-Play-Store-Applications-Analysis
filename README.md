@@ -52,14 +52,14 @@ The report comprises two dashboards. You can interact with the dashboard [here](
 
 
 # Conclusion
-  -This analysis can reveal which categories are most crowded, indicating high competition, and which are less saturated, potentially offering new market opportunities.
-  -Categories with higher average ratings may indicate higher user satisfaction.
-  -Apps with a high number of reviews are often those that have achieved significant user engagement.
-  -Understanding which categories have the most installs can help developers identify where users are most active, and potentially, where the money flows.
-  -This analysis sheds light on the prevailing monetization strategies within the Google Play Store and can help developers decide whether to offer their app for free or as a paid download.
-  -Also can indicate which age groups are most catered to in the app market, helping developers target their apps more effectively to the right audience.
-  -Identifying popular genres can help developers understand user preferences and market trends, guiding them in genre selection for their next app project.
-  -Lastly, understanding which apps have the most installs can provide a benchmark for success and offer insights into features, app types, or marketing strategies that resonate with a large user base.
+  - This analysis can reveal which categories are most crowded, indicating high competition, and which are less saturated, potentially offering new market opportunities.
+  - Categories with higher average ratings may indicate higher user satisfaction.
+  - Apps with a high number of reviews are often those that have achieved significant user engagement.
+  - Understanding which categories have the most installs can help developers identify where users are most active, and potentially, where the money flows.
+  - This analysis sheds light on the prevailing monetization strategies within the Google Play Store and can help developers decide whether to offer their app for free or as a paid download.
+  - Also can indicate which age groups are most catered to in the app market, helping developers target their apps more effectively to the right audience.
+  - Identifying popular genres can help developers understand user preferences and market trends, guiding them in genre selection for their next app project.
+  - Lastly, understanding which apps have the most installs can provide a benchmark for success and offer insights into features, app types, or marketing strategies that resonate with a large user base.
 
 
 # Source/Credit 
