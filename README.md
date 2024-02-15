@@ -40,11 +40,26 @@ The report comprises two dashboards. You can interact with the dashboard [here](
 - Find out the average user rating for apps within each category.
 - Determine the 20 most popular genres based on the number of apps or installs.
 - Highlight the app categories with the highest total number of installs
+
+![](Report_images/dashboard_1.png)
 ##### Second Dashboard:
 - Identify the 20 apps with the most reviews.
 - Compare the number of free apps to paid apps.
 - Analyze the distribution of apps according to their content rating (e.g., Everyone, Teen, Mature).
 - List the 50 apps with the highest number of installs.
+
+![](Report_images/dashboard_2.png)
+
+
+# Conclusion
+  -This analysis can reveal which categories are most crowded, indicating high competition, and which are less saturated, potentially offering new market opportunities.
+  -Categories with higher average ratings may indicate higher user satisfaction.
+  -Apps with a high number of reviews are often those that have achieved significant user engagement.
+  -Understanding which categories have the most installs can help developers identify where users are most active, and potentially, where the money flows.
+  -This analysis sheds light on the prevailing monetization strategies within the Google Play Store and can help developers decide whether to offer their app for free or as a paid download.
+  -Also can indicate which age groups are most catered to in the app market, helping developers target their apps more effectively to the right audience.
+  -Identifying popular genres can help developers understand user preferences and market trends, guiding them in genre selection for their next app project.
+  -Lastly, understanding which apps have the most installs can provide a benchmark for success and offer insights into features, app types, or marketing strategies that resonate with a large user base.
 
 
 # Source/Credit 
