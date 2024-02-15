@@ -18,7 +18,8 @@ There are 13 features in the dataset, and each feature indicates some details of
 - Current Ver: The current version of the app.
 - Android Ver: The Android version is needed for this app.
 
-# Analysis
+# Project Statement
+- 1.
 
 # Source/Credit 
 https://www.kaggle.com/datasets/bhavikjikadara/google-play-store-applications
